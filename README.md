@@ -1,4 +1,6 @@
-### Hi there 👋
+<a href="https://github-readme-stats.vercel.app/api?username=W4RT1N5&hide_border=true&theme=dark&text_color=ffffff&show_icons=true&hide=stars&rank_icon=github"><p align="center"><img src="https://github-readme-stats.vercel.app/api?username=W4RT1N5&hide_border=true&theme=dark&text_color=ffffff&show_icons=true&hide=stars&rank_icon=github">
+</p></a>
+<b href="https://github-readme-stats.vercel.app/api/top-langs/?username=W4RT1N5&exclude_repo=leticiavitrine&size_weight=0.5&count_weight=0.5&theme=dark&hide_border=true&text_color=ffffff&show_icons=true"><p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=W4RT1N5&exclude_repo=leticiavitrine&size_weight=0.5&count_weight=0.5&theme=dark&hide_border=true&text_color=ffffff&show_icons=true">
 
 <!--
 **W4RT1N5/W4RT1N5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
