@@ -6,7 +6,8 @@
 <b href="https://github-readme-stats.vercel.app/api/top-langs/?username=W4RT1N5&exclude_repo=leticiavitrine&size_weight=0.5&count_weight=0.5&theme=dark&hide_border=true&text_color=ffffff&show_icons=true"><p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=W4RT1N5&exclude_repo=leticiavitrine&size_weight=0.5&count_weight=0.5&theme=dark&hide_border=true&text_color=ffffff&show_icons=true">
 
 <!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=west7&repo=MiniProjetoOO&show_owner=true&size_weight=0.5&count_weight=0.5&theme=dark&hide_border=true&text_color=ffffff&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)-->
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fga-eps-mds&repo=2023-2-GEROcuidado-Doc&show_owner=true&size_weight=0.5&count_weight=0.5&theme=dark&hide_border=true&text_color=ffffff&show_icons=true)](https://github.com/fga-eps-mds/2023-2-GEROcuidado-Doc)  
+
+<!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fga-eps-mds&repo=2023-2-GEROcuidado-Doc&show_owner=true&size_weight=0.5&count_weight=0.5&theme=dark&hide_border=true&text_color=ffffff&show_icons=true)](https://github.com/fga-eps-mds/2023-2-GEROcuidado-Doc)  -->
 
 [![An image of @w4rt1n5's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/w4rt1n5)](https://holopin.io/@w4rt1n5)
 
